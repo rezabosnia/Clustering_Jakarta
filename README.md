@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Repo for Capstone Project Coursera Course 9
+# Clustering_Jakarta
+Clustering neighborhoods in Jakarta to determine the best location to start a Cloud Kitchen Business
